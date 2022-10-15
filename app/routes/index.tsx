@@ -15,9 +15,9 @@ export default function Index() {
           ? `${window.innerHeight} height, ${window.innerWidth} width`
           : 'Da geht was net!'}
       </div>
-      {/* <div>
+      <div>
         <BasicDocument />
-      </div> */}
+      </div>
     </div>
   )
 }
